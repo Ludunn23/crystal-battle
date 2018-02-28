@@ -1,0 +1,35 @@
+body{
+    background-color: gray;
+}
+
+.crystal {
+    border : 1px solid green;
+    height: 200px;
+    width: 200px;
+    border-radius: 6px;
+    box-shadow: 5px 5px 5px; 
+    
+}
+
+.crystal:hover{
+    box-shadow: 5px 5px 5px;
+    cursor: pointer;
+    padding: 5px;
+}
+.crystals {
+    justify-content: space-around;
+    align-items: center; 
+    display: flex;
+}
+
+h1 {
+    color: blue;
+}
+
+images {
+    width: 50px;
+}
+
+p {
+    color: purple;
+}
