@@ -1,9 +1,9 @@
 body{
-    background-color: gray;
+    background-color: rgb(173, 170, 170);
 }
 
 .crystal {
-    border : 1px solid green;
+    border : 1px solid rgb(1, 14, 1);
     height: 200px;
     width: 200px;
     border-radius: 6px;

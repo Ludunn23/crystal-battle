@@ -12,7 +12,7 @@ var resetOrStart= function() {
                 "http://www.crystalclearintentions.co.nz/wp-content/uploads/crystals.jpg",
                 "https://images-na.ssl-images-amazon.com/images/I/51snWRfynML._US500_.jpg",
                 "https://images-na.ssl-images-amazon.com/images/G/01/aplusautomation/vendorimages/1f71c9fd-6a2b-4397-8505-069f472ab3a8.jpg._CB521559690__SL300__.jpg", 
-                "http://cdn.playbuzz.com/cdn/7a5d7935-6177-4be8-8b72-2a95ad2bcdfe/3b295cc9-7b5e-412f-8b1f-8547edd8e66b.jpg"];
+                "http://atlas-content-cdn.pixelsquid.com/stock-images/natural-crystal-group-oJBXAX0-600.jpg" ];
 
     randomResult = Math.floor(Math.random() * 101 + 19);
     //console.log(randomResult);
